@@ -1,8 +1,10 @@
 {
-  "name": "loop-vs-hof",
+  "name": "testing-imperative-loops-versus-higher-order-functions-in-javascript",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "test": "echo \"Warmup\" && node index.js 50000 50 && clear && node index.js 1000000 100 && node index.js 10000000 250 && node index.js 12345678 1337 && node index.js 25000000 500"
-  }
+  },
+  "author": "Paramdeo Singh",
+  "license": "MIT"
 }
